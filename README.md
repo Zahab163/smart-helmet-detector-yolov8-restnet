@@ -62,9 +62,7 @@ python scripts/infer.py --image path/to/image.jpg
 - Visualizations include precision-recall curves, confusion matrices, and detection samples.  
 
 ---
-Perfect — here’s a **Business Impact + Future Work** section you can drop directly into your README. It’s professional, forward-looking, and ties beautifully into your transformation narrative:
 
----
 
 ## 📈 Business Impact
 
