@@ -5,7 +5,9 @@ As I complete my **AI & Data Science course at SMIT Karachi (taught by Miss Aqsa
 
 Helmet detection is more than just a technical exercise — it reflects my ability to design, train, and evaluate computer vision models with clarity, reproducibility, and educational impact.
 
+[Live Demo](https://youtu.be/urZsXzjLKEE?si=iN8g_d2-9WRBLaz1)
 ---
+
 
 ## 🚀 Project Highlights
 - **YOLOv8** for helmet vs. no-helmet detection  
